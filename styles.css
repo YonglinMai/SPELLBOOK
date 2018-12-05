@@ -1,0 +1,25 @@
+body{
+    text-align:center;
+    background:#84f9c7;
+}
+.sleep{
+    display: none;
+}
+.rest{
+    display:none; 
+}
+.quiet{
+    display:none;
+}
+h1{
+    font-family: 'Unlock', cursive;
+    font-size:100px;
+}
+p{
+    font-family: 'Black And White Picture', sans-serif;
+    font-size:50px;
+}
+button{
+    font-family: 'Black And White Picture', sans-serif;
+    font-size:25px;
+}
